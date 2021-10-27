@@ -72,3 +72,10 @@
     .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
         background-color: #c0392b !important;
     }
+    a:hover{
+        text-decoration: none;
+        color: rgb(241, 231, 231) ;
+    }
+    a{
+        color: rgb(8, 47, 92);
+    }
